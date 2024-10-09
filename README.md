@@ -1,6 +1,6 @@
 # Multichannel Pitch-to-MIDI Converter
 
-![Hz Pitch to MIDI](https://github.com/cycfi/hz_audio_to_midi/blob/master/docs/images/MIDI_Guitar-16-9.png?raw=true)
+![Hz Pitch to MIDI](https://github.com/cycfi/hz_audio_to_midi/blob/master/docs/images/MIDI_Guitar-16-9.jpg?raw=true)
 
 This project aims to create an open-source multichannel pitch-to-MIDI converter with 8 audio inputs, one MIDI output, and one USB-C output, leveraging the Hz Pitch Detection system (part of the Q DSP library) for precise and efficient pitch tracking The device will convert audio signals from multiple sources into MIDI (MPE and MIDI-2) in real time with minimal latency, providing a high-quality and customizable solution for electric guitars, basses, and other instruments.
 
@@ -21,7 +21,7 @@ As Andreas Szalay, creator of the Fishman Triple Play, noted, it took six years 
 - MIDI and USB outputs
 
 ## Community Collaboration
-This project is open-source and relies on community interest and collaboration to succeed. If you're interested in contributing, discussing ideas, or joining the development, please be part of the [discussions](https://github.com/cycfi/hz_audio_to_midi/discussions). Even the very act of joining and keeping company will fuel enthusiasm not only for the developers but also for the community as a whole. Your presence and support, whether through active contribution or simply engaging in discussions, can have a huge impact. It helps build momentum, keeps everyone motivated, and fosters a sense of belonging and shared purpose. Every bit of participation, no matter how small, contributes to the overall success and growth of this project. 
+This project is open-source and relies on community interest and collaboration to succeed. If you're interested in contributing, discussing ideas, or joining the development, please be part of the [discussions](https://github.com/cycfi/hz_audio_to_midi/discussions). Even the very act of joining and keeping company will fuel enthusiasm not only for the developers but also for the community as a whole. Your presence and support, whether through active contribution or simply engaging in discussions, can have a huge impact. It helps build momentum, keeps everyone motivated, and fosters a sense of belonging and shared purpose. Every bit of participation, no matter how small, contributes to the overall success and growth of this project.
 
 
 ## License
