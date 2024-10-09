@@ -1,5 +1,7 @@
 # Multichannel Pitch-to-MIDI Converter
 
+![Hz Pitch to MIDI](https://github.com/cycfi/hz_audio_to_midi/blob/master/docs/images/MIDI_Guitar-16-9.png?raw=true)
+
 This project aims to create an open-source multichannel pitch-to-MIDI converter with 8 audio inputs, one MIDI output, and one USB output. The device will convert audio signals from multiple sources into MIDI (MPE and MIDI-2) in real time with minimal latency, providing a high-quality and customizable solution for electric guitars, basses, and other instruments.
 
 ## Features
