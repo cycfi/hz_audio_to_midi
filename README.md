@@ -10,7 +10,7 @@ This project aims to create an open-source multichannel pitch-to-MIDI converter 
 
 This is a nascent project, and the initial feasibility assessment will be gauged on engagement, so your involvement is crucial in these early stages. If this idea resonates with you, give the project a star:
 
-<img width="177" alt="image" src="https://github.com/user-attachments/assets/eb0bb8c5-8d02-4148-87f6-bb6338f5d40c">
+<img width="164" alt="image" src="https://github.com/user-attachments/assets/b9cb3fbb-1a0e-4403-939c-368b0f9cd1cd">
 
 [Join in and introduce yourself](https://github.com/cycfi/hz_audio_to_midi/discussions/2). Share your background, your interest in pitch-to-MIDI conversion, and whether you see yourself as a potential user of this product. This will help us gauge community interest and understand how many people might benefit from this project. I'll set a modest target of 500 interested people and let's grow it from there. I encourage you to stay informed by clicking the Watch button to receive notifications: 
 
