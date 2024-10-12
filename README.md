@@ -8,7 +8,13 @@ This project aims to create an open-source multichannel pitch-to-MIDI converter 
 - [Pitch Perfect: Enhanced Pitch Detection Techniques Part 2](https://www.cycfi.com/2024/10/pitch-perfect-enhanced-pitch-detection-techniques-part-2/)
 - [Q DSP Library](https://github.com/cycfi/q)
 
-This is a nascent project, and the initial feasibility assessment will be gauged on engagement, so your involvement is crucial in these early stages. If this idea resonates with you, give the project a star, and [join in and introduce yourself](https://github.com/cycfi/hz_audio_to_midi/discussions/2). Share your background, your interest in pitch-to-MIDI conversion, and whether you see yourself as a potential user of this product. This will help us gauge community interest and understand how many people might benefit from this project. I'll set a modest target of 500 interested people and let's grow it from there.
+This is a nascent project, and the initial feasibility assessment will be gauged on engagement, so your involvement is crucial in these early stages. If this idea resonates with you, give the project a star:
+
+<img width="177" alt="image" src="https://github.com/user-attachments/assets/eb0bb8c5-8d02-4148-87f6-bb6338f5d40c">
+
+[Join in and introduce yourself](https://github.com/cycfi/hz_audio_to_midi/discussions/2). Share your background, your interest in pitch-to-MIDI conversion, and whether you see yourself as a potential user of this product. This will help us gauge community interest and understand how many people might benefit from this project. I'll set a modest target of 500 interested people and let's grow it from there. I encourage you to stay informed to watch the repository by clicking the Watch button fpor notifications: 
+
+<img width="146" alt="image" src="https://github.com/user-attachments/assets/46ed30ef-df34-4129-aafd-254a7c8be8b1">
 
 **And by all means, spread the word!**
 
