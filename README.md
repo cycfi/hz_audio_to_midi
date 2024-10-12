@@ -12,7 +12,7 @@ This is a nascent project, and the initial feasibility assessment will be gauged
 
 <img width="177" alt="image" src="https://github.com/user-attachments/assets/eb0bb8c5-8d02-4148-87f6-bb6338f5d40c">
 
-[Join in and introduce yourself](https://github.com/cycfi/hz_audio_to_midi/discussions/2). Share your background, your interest in pitch-to-MIDI conversion, and whether you see yourself as a potential user of this product. This will help us gauge community interest and understand how many people might benefit from this project. I'll set a modest target of 500 interested people and let's grow it from there. I encourage you to stay informed by clicking the Watch button for notifications: 
+[Join in and introduce yourself](https://github.com/cycfi/hz_audio_to_midi/discussions/2). Share your background, your interest in pitch-to-MIDI conversion, and whether you see yourself as a potential user of this product. This will help us gauge community interest and understand how many people might benefit from this project. I'll set a modest target of 500 interested people and let's grow it from there. I encourage you to stay informed by clicking the Watch button to receive notifications: 
 
 <img width="146" alt="image" src="https://github.com/user-attachments/assets/46ed30ef-df34-4129-aafd-254a7c8be8b1">
 
