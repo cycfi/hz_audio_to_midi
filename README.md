@@ -21,7 +21,7 @@ This is a nascent project, and the initial feasibility assessment will be gauged
 As Andreas Szalay, creator of the Fishman Triple Play, noted, it took six years to release the product, and many years later after release, software issues persist. I can lay the groundwork for a multichannel audio-to-MIDI solution, but fine-tuning for various applications, instruments, and sensors will need broader community involvement. Together, we can bring this project to life and adapt it for various applications and instruments.
 
 ## Features
-- 8 audio inputs for multiple sources (e.g., divided pickups, piezo pickups, Roland GK3)
+- 8 audio inputs for multiple sources (e.g., divided pickups, piezo pickups, Roland GK3, Nu Multi)
 - Real-time audio to MIDI (MPE and MIDI-2) conversion
 - Minimal latency for accurate performance
 - MIDI and USB outputs
